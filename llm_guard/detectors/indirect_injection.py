@@ -1,4 +1,3 @@
-# llm_guard/detectors/indirect_injection.py
 
 import re
 

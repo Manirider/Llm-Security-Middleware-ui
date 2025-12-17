@@ -1,4 +1,3 @@
-# llm_guard/detectors/jailbreak_detector.py
 
 import re
 
