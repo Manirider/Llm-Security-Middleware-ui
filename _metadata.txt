@@ -1,0 +1,8 @@
+Repository: Llm-Security-Middleware-ui
+Description: Defense-in-depth security middleware for protecting LLM applications from prompt injection, jailbreaks, and data leakage.
+Topics: portfolio-project
+
+GitHub Settings Updates:
+1. Go to https://github.com/Manirider/Llm-Security-Middleware-ui/settings
+2. Update the Description field to: Defense-in-depth security middleware for protecting LLM applications from prompt injection, jailbreaks, and data leakage.
+3. Add the following tags under Topics: portfolio-project
